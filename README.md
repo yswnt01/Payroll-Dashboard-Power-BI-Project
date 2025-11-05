@@ -87,7 +87,7 @@ This project helped me strengthen my skills in:
 
 1. **Download** or **clone** this repository.  
    ```bash
-   https://github.com/yswnt01/Blinkit-Sales-Dashboard-Excel-Analytics-Project/blob/main/Blinkit%20Sales%20Dashboard.xlsx
+   https://github.com/yswnt01/Payroll-Dashboard-Power-BI-Project/blob/main/Payroll%20Analysis%20Dashboard.pbix
 2. Open the Excel file in Microsoft Excel (2016 or later).
 3. Navigate to the Dashboard sheet.
 4. Use slicers to interact with filters such as Year, Outlet Size, and Location.
